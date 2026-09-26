@@ -53,8 +53,9 @@ Nashville-Housing-SQL/
 └── data/
     └── NashvilleHousing.xlsx
 
- ## Author
+## Author
 
 **Adnan Mohamed Ali**
 
 Data Analyst | Computer Science Graduate
+
